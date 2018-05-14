@@ -24,7 +24,6 @@
   <dependencies>
   
   	<!-- spring jar -->
-  	<!--2018/5/14
 	<dependency>
 		<groupId>org.springframework</groupId>
 		<artifactId>spring-core</artifactId>
@@ -176,7 +175,7 @@
 			<artifactId>shiro-cas</artifactId>
 			<version>${shiro.version}</version>
 		</dependency>
-	-->
+	
   </dependencies>
   
   <build>
