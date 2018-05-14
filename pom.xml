@@ -24,7 +24,11 @@
   <dependencies>
   
   	<!-- spring jar -->
+<<<<<<< HEAD
   	<!--2018/5/14
+=======
+  	<!--
+>>>>>>> 03cb2a1fe81c7df05bd79dba0f96325e0571b1d3
 	<dependency>
 		<groupId>org.springframework</groupId>
 		<artifactId>spring-core</artifactId>
