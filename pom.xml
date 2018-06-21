@@ -179,7 +179,7 @@
   </dependencies>
   
   <build>
-  	<finalName>spring-node-2</finalName>
+  	<finalName>jenkins-test</finalName>
   	
   	<plugins>
   		
