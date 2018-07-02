@@ -1,0 +1,16 @@
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\dao\UserRoleMapper.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\dao\RolePermissionMapper.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\service\UserService.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\dao\UserMapper.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\controller\UserController.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\service\impl\UserServiceImpl.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\model\UserRole.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\model\User.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\service\impl\RoleServiceImpl.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\model\RolePermission.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\realm\UserRealm.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\model\Role.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\dao\PermissionMapper.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\service\RoleService.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\dao\RoleMapper.java
+E:\workspace\jenkins\src\main\java\com\spring\mybatis\model\Permission.java
